@@ -1,4 +1,4 @@
-# 🔥 sendShrekScript.js - Anti-Golpistas WhatsApp 🔥
+# 🔥 ShrekSendScript.js - Anti-Golpistas WhatsApp 🔥
 
 Script para enviar o roteiro completo do filme Shrek (versão em Portug) como mensagens no WhatsApp Web. Pode ser usado como "trava" contra golpistas e pessoas mal-intencionadas.
 
